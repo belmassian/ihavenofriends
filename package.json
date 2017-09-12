@@ -17,5 +17,13 @@
     "node": "4.4.7"
   },
   "author": "Brie Elmassian",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belmassian/ihavenofriends.git"
+  },
+  "bugs": {
+    "url": "https://github.com/belmassian/ihavenofriends/issues"
+  },
+  "homepage": "https://github.com/belmassian/ihavenofriends#readme"
 }
